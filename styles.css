@@ -1,0 +1,21 @@
+#text-area {
+  width: 50vw;
+  border: 1px solid red;
+  display: flex;
+  flex-direction: column;
+}
+
+#notes {
+  width: 50vw;
+  border: 1px solid black;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+#note_elem {
+  color: red;
+}
